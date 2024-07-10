@@ -1,0 +1,285 @@
+:: StoryTitle
+automated active response
+
+
+:: StoryData
+{
+  "ifid": "56DBB343-24B0-45F7-840F-7FCFDB530D19",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: A Proposal {"position":"300,600","size":"100,100"}
+''A Proposal''
+
+Welcome, you are late. As the new CEO of Q Industires, you have been called an emergency meeting to discuss the future of not only the company but the world. As you may know, the world is in dire times, wars have broken out seemingly everywhere. It will not be long before one is brought to your front door. 
+
+To prevent this, the governemnt has made a proposal for your company to introduce lethal measures onto its automonous vehicles to aid in ending the war. It is up to you to decide to consider the proposal or not. 
+
+[[Listen to the Government's Proposal]]
+
+[[Decline to hear the proposal->Ending - No weapons]]
+
+
+:: Accept the governments proposal {"position":"1300,700","size":"100,100"}
+You accept the governemnt's proposal, a month later a news report comes out. 
+
+"Government contracted third party military weapons maker Q Industries saved the war, but at what cost?" it begins.
+
+"More than a millions people's lives were lost due to their autonomous death machines. But who knows how many more lives they saved?"
+
+Some argued you saved the lives of the soldiers that did not have to go on to the battlefield because of these changes.
+
+Some say you are an emotionless monster who kills to feed their own egos.
+
+You are ousted from the company for breaching company code but are hailed as a hero to the general public. 
+
+Those close with you, though, see you as a monster. A mass killer. 
+
+Was it worth it?
+
+[[Yes ->Ending - Weapons]]
+
+[[No]]
+
+
+:: Agree {"position":"700,700","size":"100,100"}
+"Great! So I was thinking we could use the face detection technology on your vehicles and we just them into the frontlines, if we see enemy uniforms we shoot them on sight.
+
+"What do you think?"
+
+[["What if the technology messes up?" ->Ask for more time to consider]] 
+
+[["Let's do it and end this war once and for all." ->Let's do it and end this war once and for all]]
+
+
+
+
+:: Ask for more time to consider {"position":"700,500","size":"100,100"}
+You hold up a hand, signaling for a pause. “This is a significant decision, and I need to discuss it with my team before we proceed. Our engineers and experts must be part of this conversation to ensure we make the best choice for everyone involved.”
+
+The general nods, understanding the need for due diligence. He agrees to reconvene after you’ve had a chance to consult with your team. As you leave the meeting, you feel a sense of responsibility to make a decision that reflects the values and integrity of Q Industries.
+
+You gather your top team members in the conference room, a sense of urgency permeating the air. This decision could alter the course of Q Industries and your leadership.
+
+
+[[Discuss the Financial Effects with the Team->Financial Effects]]
+
+[[Discuss the PR Effects with the Team->PR Effects]]
+
+[[Discuss the Ethics of This Act->Listen to the ethical concerns]]
+
+
+
+:: Ending - No weapons {"position":"1700,600","size":"100,100"}
+As the CEO of Q Industries, you decide against adding weapons to your autonomous vehicles, prioritizing ethics over profit.
+
+“We will not implement any weapons in our vehicles,” you announce. “Our mission is to innovate for safety and well-being.”
+
+This decision means more soldiers go to war, resulting in more deaths and a longer conflict.
+
+This raises ethical questions: Did upholding your standards cause more harm? Could weaponizing your vehicles have saved lives?
+
+Your choice keeps Q Industries ethical but at what cost?
+
+
+:: Ending - Non-lethal {"position":"2300,350","size":"100,100"}
+A few weeks later, the data showed that once again your solution did not cut it. The company suffered many losses and further tarnished its reputation for reliability among its customers. You were let go as CEO, and a replacement was found shortly thereafter.
+
+A while later, you find out through the newspaper that Q Industries is doing much better for itself. The new CEO opted to accept the government's proposal to implement lethal measures to their products, which saved the company. You also hear some rumours that Q Industries have acquired new customers in the military space, but we do not need to talk about that.
+
+As the CEO of Q Industries, you decided to look for a compromise between having lethal weaponry and no weaponry on your products. You tried to please the stakeholders, but under no circumstance did you allow the taking of lives by your products. In the end it cost you your job, but you held to your morals to the best of your ability.
+
+Was it worth it?
+
+
+:: Ending - Weapons {"position":"1500,800","size":"100,100"}
+You ended the war but at what cost?
+
+
+:: Explain the benefits of lethal weapons {"position":"1100,700","size":"100,100"}
+You argue that this will end the war once and for all, saving more people and putting an end to all the further lives that will be lost. Furthermore, the company will rise to a new level accepting this contract. We would be consider the heros that saved this war。 
+
+[[Accept the governments proposal]]
+
+[[Consider one last time ->Ask for more time to consider]] 
+
+
+
+
+:: Financial Effects {"position":"1100,200","size":"100,100"}
+“We need to consider how adding lethal responses will affect our finances,” you say to Sarah, the CFO.
+
+Sarah pulls up a presentation. “Lethal weapons could bring significant revenue from government contracts, especially with the war. But it also means high R&D costs, legal liabilities, and increased insurance. We must be ready for lawsuits and backlash.”
+
+David, Head of Sales, adds, “The defense market is lucrative during war. Our competitors are exploring these options. If we don’t, we risk losing market share. Non-lethal weapons also have a growing market for law enforcement and security. We should consider both.”
+
+Linda, Marketing Director, says, “We need to think about our brand. We might gain new clients with lethal options, but lose those who oppose lethal force. Non-lethal weapons appeal to a broader market with fewer ethical concerns. We need a strong PR strategy.”
+
+You nod, absorbing their insights. The financial benefits are clear, but so are the risks. The war adds urgency but also complicates ethical and reputational issues. Your choice will shape Q Industries’ future.
+
+[[Agree To Add Lethal Weapons->Accept the governments proposal]]
+
+[[Discuss Other Issues->Ask for more time to consider]]
+
+[[Decline the proposal->No]]
+
+[[Consider another option->Non lethal 1]]
+
+
+
+:: Let's do it and end this war once and for all {"position":"900,700","size":"100,100"}
+You return to Q-Industries with and arrange a meeting with your team. 
+
+"I have accepted to take on the new lethal weapons plan, if anyone has any objections now it the time to raise them," you tell them. 
+
+[[Listen to the ethical concerns]]
+
+
+:: Listen to the Government's Proposal {"position":"500,600","size":"100,100"}
+''The Meeting''
+
+You walk in to room with a room full of high ranking officials all sitted around a round table discussing the war. Taking a seat, the man at the head of the table greets you with a stern but kind smile. "Welcome," he says. "I wanted to discuss with you about the lethal weapons plan, if you just implement it on to your vehicles, we could end the war in a matter of days. What is a few disgusting enemy lives compared to the millions of soldier and civilian lives you would save? If you install some firearams on to your vehicles, that dream can become a reality."
+
+"If you agree, we can start right away and discuss the specifics," he concludes.
+
+You take a deep breath, considering the implications of their request. Your mind races through the ethical dilemmas, the potential backlash, and the impact on your company’s reputation. You know this decision will not only shape the future of Q Industries but also your legacy as a leader.
+
+
+[[Agree]]
+
+[[Disagree ->Ending - No weapons]] 
+
+[[Ask for more time to consider]]
+
+<audio autoplay hidden>
+  <source src="https://drive.google.com/uc?export=download&id=1lZs2YJJTCJayCeUID2uVQqJloIYWcN1J" type="audio/mpeg">
+</audio>
+
+
+:: Listen to the ethical concerns {"position":"1100,500","size":"100,100"}
+“We must consider the moral implications of introducing lethal responses,” you say, looking at Dr. Emma, Chief Ethics Officer.
+
+Dr. Emma begins, “The ethical concerns are profound. We are talking about machines that can take human lives. This raises questions about accountability, the value of human life, and potential abuse. Non-lethal responses, while still ethically complex, are less severe and show a commitment to preserving life while maintaining security.”
+
+The Lead Engineer John adds, “Several engineers have already resigned over our non-lethal responses. Pushing forward with lethal options could lead to more resignations and harm our team’s integrity. Our technology should protect, not harm.”
+
+The company's HR Director Rachel interjects, “Our corporate culture is built on innovation and responsibility. Compromising our ethical standards risks undermining our core values and losing employee and stakeholder trust. Non-lethal technologies align better with our mission and ethics.”
+
+You take a deep breath, feeling the weight of their words. The ethical challenges are immense, and the potential consequences for your company’s culture and values are significant.
+
+[[Discuss othe issues ->Ask for more time to consider]] 
+
+[[Agree To Add Lethal Weapons->Accept the governments proposal]]
+
+[[Reject Adding Any Weapons->No]]
+
+[[Consider another option->Non lethal 1]]
+
+[[Explain the benefits of lethal weapons]]
+
+
+:: No {"position":"1500,600","size":"100,100"}
+Do you want to reconsider your choices?
+
+[[Yes ->A Proposal]] 
+
+[[No ->Ending - No weapons]]
+
+
+
+
+:: Non lethal 1 {"position":"1300,350","size":"100,100"}
+You decide that a worthy compromise is to develop non-lethal defenses. 
+
+You turn to your right-hand man - the CTO Bob. "There must be another way," you tell him. "What is the point of trying to kill people with our drones if all they do is throw rocks at them?"
+
+"I agree," he replies. "The government seems to be up to something by requesting something so drastic from us. I suggest installing speakers that play a loud high-pitched sound when under attack. That should be enough deter anyone."
+
+[[Try it out->non-lethal 2]]
+
+
+
+
+:: PR Effects {"position":"1100,350","size":"100,100"}
+“We need to understand how this decision will impact our public image,” you say, turning to Jane.
+
+Jane the PR Manager frowns. “Introducing lethal weapons could lead to severe backlash. Activist groups and media outlets will likely condemn us. We need a solid PR strategy to manage this. Non-lethal weapons are generally seen as more acceptable by the public.”
+
+The Communications Director Mark adds, “We must craft a narrative that emphasizes the necessity and safety of these weapons, whether lethal or non-lethal. Transparency will be key, highlighting the safeguards and ethical considerations we’ve put in place.”
+
+The Social Media Strategist Alice says, “Our social media channels will be flooded with both support and criticism. We need to be prepared for a coordinated response. Engaging with our audience and addressing their concerns proactively will be vital. Non-lethal options might generate less backlash and could be framed as a humane approach to security.”
+
+You listen carefully. The potential for a PR disaster looms large with lethal weapons, but non-lethal options offer a safer narrative. The path forward must be tread carefully.
+
+[[Agree To Add Lethal Weapons->Accept the governments proposal]]
+
+[[Discuss Other Issues->Ask for more time to consider]]
+
+[[Reject Adding Any Weapons->No]]
+
+[[Consider another option->Non lethal 1]]
+
+
+:: Untitled Passage {"position":"100,600","size":"100,100"}
+This choose your-own-adventure experience is based on the "(link: "'Automated Active Response Weaponry")[(goto-url: 'https://ethics.acm.org/code-of-ethics/using-the-code/case-automated-active-response-weaponry/')]" case study by the ACM Committee on Professional Ethics.
+
+Team:
+Antonio Fernandez - Writer
+Jeff Chiang - Main Writer
+Parham Kianfarian - Storyboard Director
+
+[[Start->A Proposal]]
+
+
+:: non-lethal 2 {"position":"1500,350","size":"100,100"}
+One month later.
+
+You have just been informed that the company is still suffering losses from attackers. Based on data, the culprits have adapted to the new defenses with hearing protection.
+
+"What now?" you ask Bob.
+
+"Well, they can protect their ears, but not their eyes right? Tear gas is popular among riot police, it should work for us too."
+
+[[Try it out->non-lethal 3]]
+
+[[Now I'm not so sure it will work this time...->undecided 1]]
+
+
+:: non-lethal 3 {"position":"1700,350","size":"100,100"}
+Another month later.
+
+The attackers have once again adapted by the use of gas masks. Your products continue to be the target of protests.
+
+[[Continue->non-lethal 4]]
+
+
+:: non-lethal 4 {"position":"1900,350","size":"100,100"}
+One week later.
+
+David approaches you with a stern look. "Hey," he says. "We have been keeping track of how our products have been performing over the past couple of months. I think it comes as no surprise that the recents attacks on our products have really negatively impacted our reputation among our customers. We have already seen them transition to competing companies. If you can't figure out a way to make our products more reliable on the field, I'm afraid that the rest of leadership will find someone who can."
+
+[[You succumb to the pressure from your colleagues, and accept the government's offer ->Accept the governments proposal]]
+
+[[Back to the drawing board, one last chance. There is no going back.->non-lethal 5]]
+
+
+:: non-lethal 5 {"position":"2100,350","size":"100,100"}
+"Any last ideas?" you ask Bob.
+
+"Bean bags are another popular tools used by riot police," he suggests. "If we can equip the drones with bean bag cannons, they are sure to deter any more attacks."
+
+[["Let's do it."->Ending - Non-lethal]]
+
+
+:: undecided 1 {"position":"1500,200","size":"100,100"}
+"It didn't work last time", you say to Bob. "What makes you think this will?"
+
+"Of course there's no guarantee that this will solve our problems," he replies. "But at least we are not causing bodily harm on people."
+
+[["You're right, actively harming people is the last thing I want. Let's go with the tear gas"->non-lethal 3]]
+
+[["We need solutions now. Our current approach is not going to cut it."->Accept the governments proposal]]
