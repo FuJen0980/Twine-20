@@ -69,8 +69,6 @@ Those close with you, though, see you as a monster. A mass killer.
 Was it worth it?
 
 
-
-
 :: Ending - No weapons {"position":"1500,450","size":"100,100"}
 As the CEO of Q Industries, you decide against adding weapons to your autonomous vehicles, prioritizing ethics over profit.
 
@@ -131,7 +129,6 @@ You nod, absorbing their insights. The financial benefits are clear, but so are 
 [[Discuss other issues->Ask for more time to consider]]
 
 
-
 :: Let's do it and end this war once and for all {"position":"900,700","size":"100,100"}
 "I will accept to take on the new lethal weapons plan, if anyone has any objections now it the time to raise them," you say to the meeting. 
 
@@ -140,8 +137,6 @@ You notice that some of your team members look uncomfortable.
 [[You address your team,->Ask for more time to consider]]
 
 [[You try to convince them on your decision->Explain the benefits of lethal weapons]]
-
-
 
 
 :: Listen to the Government's Proposal {"position":"500,600","size":"100,100"}
@@ -224,7 +219,7 @@ You listen carefully. The potential for a PR disaster looms large with lethal we
 
 
 :: Untitled Passage {"position":"100,600","size":"100,100"}
-This choose your-own-adventure experience is based on the "(link: "'Automated Active Response Weaponry")[(goto-url: 'https://ethics.acm.org/code-of-ethics/using-the-code/case-automated-active-response-weaponry/')]" case study by the ACM Committee on Professional Ethics.
+This choose your-own-adventure experience is based on the "(link: "Automated Active Response Weaponry")[(goto-url: 'https://ethics.acm.org/code-of-ethics/using-the-code/case-automated-active-response-weaponry/')]" case study by the ACM Committee on Professional Ethics.
 
 Team:
 Antonio Fernandez - Main Editor
